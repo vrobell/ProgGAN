@@ -1,5 +1,5 @@
 # ProgGAN
-Progressive Growing GAN implementation by Adam Wrobel
+Progressive Growing GAN implementation
 
 ## Run the project
 1. download celebA dataset and copy to data/celeba/raw
